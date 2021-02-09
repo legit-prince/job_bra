@@ -16,7 +16,7 @@ class _HomePageState extends State<HomePage> {
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(
-        title: Text("Job Extra"),
+        title: Text("Job Alert"),
       ),
       body: SafeArea(
         child: StreamBuilder(
