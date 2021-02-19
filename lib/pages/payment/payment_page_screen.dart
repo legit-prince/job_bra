@@ -298,7 +298,7 @@ class _MyHomePageState extends State<PaymentPageScreen> {
       content: SingleChildScrollView(
         child: ListBody(
           children: <Widget>[
-            Text('Payment for job application recieved suceesfully'),
+            Text('Payment for your application form recieved suceesfully'),
             Text('Please check your email for more'),
           ],
         ),
